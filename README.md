@@ -12,6 +12,7 @@ A comprehensive task management system built with Django that demonstrates end-t
 - **Due Date Management**: Set and track due dates with overdue notifications
 - **User Assignment**: Assign tasks to different users
 - **Comments System**: Add comments to tasks for collaboration
+- **Comments System**: Add comments to tasks for collaboration
 
 ### User Interface
 - **Modern Dashboard**: Beautiful dashboard with statistics and recent tasks
